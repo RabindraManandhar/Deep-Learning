@@ -9,7 +9,7 @@ a dense neural network to predict to classify the presence of heart disease.
 Packages:
 * pandas
 * matplotlob
-* sklearn (scikit-learn)
+* sklearn (scikit-l0earn)
 * seaborn
 
 ### Case 2
