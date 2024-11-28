@@ -2,14 +2,14 @@
 
 ### Case 1
 
-Goal: The goal was to learn to use neural networks to make an expert system to support in diagnostic decision making.
+Goal: The goal was to learn to use neural networks to make an expert system to support in diagnostic decision-making.
 The objective was to read and pre-process the 'Heart Disease Health Indicator Dataset' from Kaggle and create and train
 a dense neural network to predict to classify the presence of heart disease.
 
 Packages:
 * pandas
-* matplotlob
-* sklearn (scikit-l0earn)
+* matplotlib
+* sklearn (scikit-learn)
 * seaborn
 
 ### Case 2
@@ -18,7 +18,18 @@ The aim was to achieve a minimum of 90% of sensitivity and 90% of specificity in
 
 Packages:
 * tensorflow
-* scikit learn
+* sklearn (scikit learn)
 * numpy
 * matplotlib
 
+### Case 3
+Goal: The goal was to use the methods of text processing and to experiment with convolutional neural networks
+to create a classifier for a collection of patient drug reviews extracted from Drugs.com.
+
+Packages
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* tensorflow
+* sklearn (scikit learn)
